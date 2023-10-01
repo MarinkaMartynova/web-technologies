@@ -1,0 +1,21 @@
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 20pt;
+}
+
+h1 {
+    font-size: 48pt;
+
+}
+
+p {
+    width: 700px;
+    text-align: center;
+    color: blue;
+    font-size: 20pt;
+}
+
+.myPhoto {
+    width: 700px;
+}
